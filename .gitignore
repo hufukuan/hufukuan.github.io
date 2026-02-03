@@ -1,3 +1,7 @@
+# Assets (reference files only, actual images are in public/)
+assets/
+
+# Build output
 .next
 
 # Dependencies
@@ -9,6 +13,10 @@ node_modules/
 dist/
 build/
 out/
+# Assets (reference files only, actual images are in public/)
+assets/
+
+# Build output
 .next/
 .rsbuild/
 
